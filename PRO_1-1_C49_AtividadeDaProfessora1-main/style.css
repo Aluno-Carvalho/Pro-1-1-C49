@@ -1,0 +1,48 @@
+.box{
+
+    background-color: Grey;
+}
+
+body{
+
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color:blue;
+    border: solid;
+
+}
+
+#Division{
+
+    cursor: pointer;
+    top: 200px;
+    right: 200px;
+    color: black;
+
+}
+
+#Libary{
+
+    cursor: grab;
+    list-style: upper-roman;
+    color: black;
+    z-index: 10;
+    background: linear-gradient(to bottom left, #147d53 0%, #632323 100%);
+    
+}
+
+h1{
+    border: double;
+    border-radius: 44px;
+    
+}
+
+.flexbox {
+    display: flex;
+    justify-content: space-evenly;
+
+}
+
+
+    
+
